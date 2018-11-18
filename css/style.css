@@ -5,28 +5,28 @@ body {
 }
 
 body {
-  background: #2C4DFF;
+  background: #6EE898;
   position: relative;
 }
 
 .profile-link {
-  color: #019cdc;
-  font-size: 12px;
+  color: rgb(18, 32, 114);
+  font-size: 14px;
   display: block;
 }
 
 .link-heading {
   display: block;
-  font-size: 12px;
+  font-size: 16px;
 }
 
 a:hover,
 a:visited:hover {
-  color: #7ac043;
+  color: #38d5e0;
 }
 
 a:visited {
-  color: #f58428;
+  color: #6aceec;
 }
 
 .outer {
@@ -123,19 +123,19 @@ a:visited {
 }
 
 .square-one .inner {
-  background: #f58428;
+  background: #5324d4;
 }
 
 .square-two .inner {
-  background: #7ac043;
+  background: #eef131;
 }
 
 .square-three .inner {
-  background: #019cdc;
+  background: rgb(228, 42, 166);
 }
 
 .details {
-  color: white;
-  font-family: 'Ubuntu Mono', monospace;
+  color: rgb(236, 136, 47);
+  font-family: Montserrat, sans-serif;
   /* border: 1px solid red; */
 }
